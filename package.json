@@ -1,0 +1,9 @@
+{
+  "name": "kasukatiyau",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "julian-date": "^1.0.1",
+    "underscore": "^1.8.3"
+  }
+}
