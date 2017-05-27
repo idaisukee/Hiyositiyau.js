@@ -11,3 +11,4 @@ Hiyositiyau = class Hiyositiyau
   printNow: () ->
     # $('#rd').text((new Hiyositiyau).now())
     alert (new Hiyositiyau).now()
+
